@@ -106,3 +106,4 @@ fabric.properties
 .DS_Store
 Doc/
 !/libs/*.jar
+!WeatherSystem.jar

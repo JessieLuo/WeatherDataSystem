@@ -113,5 +113,120 @@
         },
         "LogicTimestamp": 5,
         "SystemTimestamp": 112648523482958
+    },
+    {
+        "data": {
+            "apparent_t": 9.5,
+            "wind_spd_kmh": 15,
+            "rel_hum": 60,
+            "lon": 138.6,
+            "dewpt": 5.7,
+            "wind_spd_kt": 8,
+            "wind_dir": "S",
+            "time_zone": "CST",
+            "air_temp": 13.3,
+            "cloud": "Partly cloudy",
+            "local_date_time_full": "20230715160000",
+            "local_date_time": "15/04:00pm",
+            "name": "Adelaide (West Terrace / ngayirdapira)",
+            "id": "IDS60901",
+            "state": "SA",
+            "press": 1023.9,
+            "lat": -34.9
+        },
+        "LogicTimestamp": 1,
+        "SystemTimestamp": 742133935561750
+    },
+    {
+        "data": {
+            "apparent_t": 9.5,
+            "wind_spd_kmh": 15,
+            "rel_hum": 60,
+            "lon": 138.6,
+            "dewpt": 5.7,
+            "wind_spd_kt": 8,
+            "wind_dir": "S",
+            "time_zone": "CST",
+            "air_temp": 13.3,
+            "cloud": "Partly cloudy",
+            "local_date_time_full": "20230715160000",
+            "local_date_time": "15/04:00pm",
+            "name": "Adelaide (West Terrace / ngayirdapira)",
+            "id": "IDS60901",
+            "state": "SA",
+            "press": 1023.9,
+            "lat": -34.9
+        },
+        "LogicTimestamp": 2,
+        "SystemTimestamp": 742134925252541
+    },
+    {
+        "data": {
+            "apparent_t": 9.5,
+            "wind_spd_kmh": 15,
+            "rel_hum": 60,
+            "lon": 138.6,
+            "dewpt": 5.7,
+            "wind_spd_kt": 8,
+            "wind_dir": "S",
+            "time_zone": "CST",
+            "air_temp": 13.3,
+            "cloud": "Partly cloudy",
+            "local_date_time_full": "20230715160000",
+            "local_date_time": "15/04:00pm",
+            "name": "Adelaide (West Terrace / ngayirdapira)",
+            "id": "IDS60901",
+            "state": "SA",
+            "press": 1023.9,
+            "lat": -34.9
+        },
+        "LogicTimestamp": 3,
+        "SystemTimestamp": 742135930376250
+    },
+    {
+        "data": {
+            "apparent_t": 9.5,
+            "wind_spd_kmh": 15,
+            "rel_hum": 60,
+            "lon": 138.6,
+            "dewpt": 5.7,
+            "wind_spd_kt": 8,
+            "wind_dir": "S",
+            "time_zone": "CST",
+            "air_temp": 13.3,
+            "cloud": "Partly cloudy",
+            "local_date_time_full": "20230715160000",
+            "local_date_time": "15/04:00pm",
+            "name": "Adelaide (West Terrace / ngayirdapira)",
+            "id": "IDS60901",
+            "state": "SA",
+            "press": 1023.9,
+            "lat": -34.9
+        },
+        "LogicTimestamp": 4,
+        "SystemTimestamp": 742136933692791
+    },
+    {
+        "data": {
+            "apparent_t": 9.5,
+            "wind_spd_kmh": 15,
+            "rel_hum": 60,
+            "lon": 138.6,
+            "dewpt": 5.7,
+            "wind_spd_kt": 8,
+            "wind_dir": "S",
+            "time_zone": "CST",
+            "air_temp": 13.3,
+            "cloud": "Partly cloudy",
+            "local_date_time_full": "20230715160000",
+            "local_date_time": "15/04:00pm",
+            "name": "Adelaide (West Terrace / ngayirdapira)",
+            "id": "IDS60901",
+            "state": "SA",
+            "press": 1023.9,
+            "lat": -34.9
+        },
+        "LogicTimestamp": 5,
+        "SystemTimestamp": 742137935677291
     }
 ]
