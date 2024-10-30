@@ -1,0 +1,5 @@
+Provide file access when execute the jar file which located at parent folder
+
+txt file let ContentServer read data from the file
+
+.json file are AggregationServer saved data which converted from content server get
